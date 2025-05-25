@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Brownies</title> 
+    <meta charset="UTF-8">
+    </head>
+    <body>
+<h1>Fudgy Chocolate Chip Brownies</h1>
+<p>The perfect fudgy chocolate chip brownies full of guilt and chocolate.</p>
+<h2>Ingredients</h2>
+<ul>
+  <li>milk</li>
+  <li>eggs</li>
+  <li>flour</li>
+  <li>cocoa powder</li>
+  <li>vanillla</li>
+ <li> salt</li>
+ <li> oil</li>
+ <li> dark chocolate chips </li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+  <li> preheat oven to 325 F </li>
+<li> mix ingredients into a bowl </li>
+<li> pour into 8x8 pan </li>
+<li> cook for 40-48 minutes until toothpick in center comes out clear </li>
+<li> allow to cool completely </li>
+  </ol>
+<img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Wodden table with milk, 3 eggs, flour in a measuring cup and a whisk with powder">
+      </body>
+    </html>
+
+** end of index.html **
+
